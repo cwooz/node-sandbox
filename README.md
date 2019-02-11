@@ -1,6 +1,6 @@
-# Node Crash Course Files
+# Node Sandbox
 
-> These files go with the Node crash course on YouTube.
+> Node Sandbox
 
 ## Quick Start
 
